@@ -1,6 +1,5 @@
 langchain
 langchain-community
-langchain-google-genai
 pypdf
 qdrant-client
 streamlit
@@ -8,3 +7,4 @@ python-dotenv
 langchain 
 sentence-transformers 
 torch
+langchain-groq
