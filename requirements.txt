@@ -3,8 +3,9 @@ langchain-community
 pypdf
 qdrant-client
 streamlit
-python-dotenv
-langchain 
+python-dotenv 
 sentence-transformers 
 torch
 langchain-groq
+langchain-core 
+tqdm 
